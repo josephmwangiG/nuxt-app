@@ -1,0 +1,7 @@
+{
+    "nuxt.isNuxtApp": false,
+    "tailwindCSS.experimental.configFile": "tailwind.config.js",
+    "files.associations": {
+        "*.css": "tailwindcss"
+    }
+}
